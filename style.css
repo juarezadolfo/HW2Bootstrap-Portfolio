@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.navbar-nav {
+  padding-left: 10px;
+}
+
+.caption {
+  padding-bottom: 25px;
+  /* float: left; */
+}
+
+.thumbnail {
+  /* float: left; */
+}
+
+.panel{
+  margin-top: 10px;
+}
+.panel-default {
+  float: left;
+  /* clear: both; */
+}
